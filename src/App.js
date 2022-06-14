@@ -63,7 +63,6 @@ const Image = (prop)=>{
     <>{imageItems}</>
   )
 }
-
 const ImageBlock = (prop)=>{
   return(
     <main className="image-block">
